@@ -20,6 +20,7 @@ Libraries and Frameworks:
 ![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=ff7a93)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=ff7a93)
 ![](https://img.shields.io/badge/Scikit%20Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=ff7a93)
+![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=ff7a93)
 ![](https://img.shields.io/badge/Selenium-informational?style=flat&color=ff7a93)
 ![](https://img.shields.io/badge/RDKit-informational?style=flat&color=ff7a93)
 ![](https://img.shields.io/badge/OpenBabel-informational?style=flat&color=ff7a93)
