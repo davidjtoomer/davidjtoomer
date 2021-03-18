@@ -41,11 +41,7 @@ Tools and Technologies:
 
 
 ## You Can Find Me... 🌎
-📚 Keeping you up to date on my [personal blog and author's website](http://www.davidtoomer.com) 
-
 🧬 Researching and [developing programs](https://www.github.com/Svensson-Lab) for the [Svensson Lab](http://www.svenssonlabstanford.org/) at the Stanford University School of Medicine 
-
-🎺 Curating tons of playlists on [Spotify](https://open.spotify.com/user/djtoomer22?si=9r-Htz75Qo2vLjXAaBUSGQ) 
 
 💻 Sharing work experiences on [LinkedIn](https://www.linkedin.com/in/davidtoomer) 
 
