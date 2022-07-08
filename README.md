@@ -1,5 +1,5 @@
-# Hello! <img src="https://raw.githubusercontent.com/davidjtoomer/davidjtoomer/main/wave.gif" width="30px">
-My name is David, and I'm a student at Stanford University studying Chemistry and Computer Science. I am interested in leveraging machine learning to solve problems in organic and bioorganic chemistry.
+# Hello! <img src="https://raw.githubusercontent.com/davidjtoomer/davidjtoomer/main/wave.gif" width="10px">
+My name is David, and I'm a student at Stanford University studying for my M.S. in Computer Science (Artificial Intelligence) and B.S. in Chemistry. I am interested in leveraging machine learning to solve problems in organic and bioorganic chemistry.
 
 ## Skills 🔧
 Languages:
