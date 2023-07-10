@@ -1,5 +1,5 @@
 # Hello!
-My name is David, and I'm a student at Stanford University with an intended M.S. in Computer Science (Artificial Intelligence) and B.S. in Chemistry. I am interested in leveraging machine learning to solve problems in organic and bioorganic chemistry.
+My name is David, and I'm a Stanford graduate with degrees in Computer Science (Artificial Intelligence) and Chemistry. I am interested in leveraging machine learning to solve problems in organic and bioorganic chemistry.
 
 ## Skills 🔧
 Languages:
@@ -24,17 +24,3 @@ Tools and Technologies:
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=2a2a2a&color=white&textColor=2a2a2a)
 ![](https://img.shields.io/badge/PyMol-informational?style=flat&color=white&textColor=2a2a2a)
 ![](https://img.shields.io/badge/VMD-informational?style=flat&color=white&textColor=2a2a2a)
-
-## My GitHub Stats 📈
-
-[![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidjtoomer&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark)](https://github.com/davidjtoomer/davidjtoomer)
-
-[![David's Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjtoomer&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/davidjtoomer/davidjtoomer)
-
-
-## You Can Find Me... 🌎
-🧬 Researching in the [Rotskoff Group](https://statmech.stanford.edu/) at the Stanford University Department of Chemistry 
-
-💻 Sharing work experiences on [LinkedIn](https://www.linkedin.com/in/davidtoomer) 
-
-📸 Posting photos on [Instagram](https://www.instagram.com/davidjtoomer)
